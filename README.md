@@ -30,9 +30,12 @@ Desenvolvedor focado no ecossistema **JavaScript**. Atualmente, dedico meu tempo
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
+### 📊 GitHub Stats
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgarajau&theme=dark&hide_border=true" alt="Status de Commits" height="150" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgarajau&layout=compact&theme=dark&hide_border=true" alt="Linguagens" height="150" />
 </p>
 
