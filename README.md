@@ -31,10 +31,10 @@ Desenvolvedor focado no ecossistema **JavaScript**. Atualmente, dedico meu tempo
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgarajau&hide_border=true&include_all_commits=true&count_private=true&theme=buefy" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgarajau&hide_border=true&layout=compact&theme=buefy" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgarajau&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Matheus" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgarajau&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
