@@ -26,7 +26,7 @@ Desenvolvedor focado no ecossistema **JavaScript**. Atualmente, dedico meu tempo
 | :--- | :--- | :--- |
 | [**Site Arquitetura**](https://github.com/mgarajau/site-arquitetura-react) | Site com rotas, componentes e formulário de contato. | React / Vite |
 | [**Task List**](https://github.com/mgarajau/task-list) · [ver online](https://mgarajau.github.io/task-list/) | Lista de tarefas responsiva. | JS / DOM |
-| [**Portfólio**](https://github.com/mgarajau/portfolio-html) · [ver online](https://mgarajau.github.io/portfolio-html/) | Meu portfólio pessoal. | HTML / CSS |
+| [**Portfólio**](https://github.com/mgarajau/portfolio) · [ver online](https://mgarajau.github.io/portfolio/) | Meu portfólio pessoal. | React / Vite |
 | [**Blog Responsivo**](https://github.com/mgarajau/blog-responsivo) · [ver online](https://mgarajau.github.io/blog-responsivo/) | Blog adaptado para mobile, tablet e desktop. | HTML / CSS |
 
 ---
