@@ -4,9 +4,9 @@
 
 ### Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvo aplicações web com JavaScript e React.
+Sou desenvolvedor de software e crio aplicações web com JavaScript e React.
 
-Antes da programação, trabalhei por 2 anos como técnico de automação na FUNED, monitorando os sistemas das câmaras frias que armazenam soros e vacinas. Hoje busco minha primeira oportunidade em tecnologia: desenvolvedor júnior, estágio ou outra posição de entrada.
+Antes da programação, trabalhei por 2 anos como técnico de automação na FUNED, monitorando os sistemas das câmaras frias que armazenam soros e vacinas. Hoje busco minha primeira oportunidade em tecnologia: desenvolvedor júnior ou outra posição de entrada.
 
 ### Tecnologias
 
@@ -30,8 +30,7 @@ Antes da programação, trabalhei por 2 anos como técnico de automação na FUN
 
 ### Trajetória
 
-- **Engenharia de Software**, Estácio (em andamento)
-- **Curso de Engenheiro de Software**, Escola DNC (2024 a 2026)
+- **Formação em Desenvolvimento de Software**, Escola DNC (2024 a 2026)
 - **Técnico de Automação**, FUNED (abr 2024 a mar 2026)
 
 ### Contato
