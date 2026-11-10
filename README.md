@@ -1,48 +1,40 @@
-# 👨‍💻 Matheus Garajau
-**Software Developer | React & JavaScript enthusiast**
+<a href="https://mgarajau.github.io/portfolio/">
+  <img src="banner.png" alt="Matheus Garajau, Desenvolvedor de Software. React, JavaScript e Node.js. Belo Horizonte, MG." width="100%" />
+</a>
 
----
+### Sobre mim
 
-### ⚡ Sobre mim
-Desenvolvedor focado no ecossistema **JavaScript**. Atualmente, dedico meu tempo à criação de interfaces dinâmicas com **React** e à organização de projetos escaláveis no **GitHub**.
+Sou estudante de Engenharia de Software e desenvolvo aplicações web com JavaScript e React.
 
-* 🔭 Atualmente trabalhando em: Projetos de portfólio e exercícios de lógica.
-* 🌱 Estudando: Promises, Async/Await e Manipulação de DOM.
-* 🛠️ Objetivo: Criar soluções web eficientes e visualmente atraentes.
+Antes da programação, trabalhei por 2 anos como técnico de automação na FUNED, monitorando os sistemas das câmaras frias que armazenam soros e vacinas. Hoje busco minha primeira oportunidade em tecnologia: desenvolvedor júnior, estágio ou outra posição de entrada.
 
----
+### Tecnologias
 
-### 💻 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode" />
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-1e3ad4?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-1e3ad4?style=flat-square&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-1e3ad4?style=flat-square&logo=reactrouter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1e3ad4?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1e3ad4?style=flat-square&logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e3ad4?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1e3ad4?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1e3ad4?style=flat-square&logo=github&logoColor=white)
 
----
+### Projetos
 
-### 🏆 Projetos em Destaque
-| Projeto | Descrição | Techs |
+| Projeto | O que é | Links |
 | :--- | :--- | :--- |
-| [**Site Arquitetura**](https://github.com/mgarajau/site-arquitetura-react) | Site com rotas, componentes e formulário de contato. | React / Vite |
-| [**Task List**](https://github.com/mgarajau/task-list) · [ver online](https://mgarajau.github.io/task-list/) | Lista de tarefas responsiva. | JS / DOM |
-| [**Portfólio**](https://github.com/mgarajau/portfolio) · [ver online](https://mgarajau.github.io/portfolio/) | Meu portfólio pessoal. | React / Vite |
-| [**Blog Responsivo**](https://github.com/mgarajau/blog-responsivo) · [ver online](https://mgarajau.github.io/blog-responsivo/) | Blog adaptado para mobile, tablet e desktop. | HTML / CSS |
+| **Portfólio** | Meu portfólio pessoal, feito com React e Vite. | [online](https://mgarajau.github.io/portfolio/) · [código](https://github.com/mgarajau/portfolio) |
+| **Site de Arquitetura** | Site institucional com 4 páginas, React Router e projetos carregados de uma API REST. | [online](https://mgarajau.github.io/site-arquitetura-react/) · [código](https://github.com/mgarajau/site-arquitetura-react) |
+| **Lista de Tarefas** | Adicionar, concluir e remover tarefas com JavaScript puro, salvas no localStorage. | [online](https://mgarajau.github.io/task-list/) · [código](https://github.com/mgarajau/task-list) |
+| **Blog Responsivo** | Página de blog com HTML semântico que se adapta a celular, tablet e desktop. | [online](https://mgarajau.github.io/blog-responsivo/) · [código](https://github.com/mgarajau/blog-responsivo) |
 
----
+### Trajetória
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgarajau&theme=dark&hide_border=true" alt="Status de Commits" height="150" />
-</p>
+- **Engenharia de Software**, Estácio (em andamento)
+- **Curso de Engenheiro de Software**, Escola DNC (2024 a 2026)
+- **Técnico de Automação**, FUNED (abr 2024 a mar 2026)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgarajau&layout=compact&theme=dark&hide_border=true" alt="Linguagens" height="150" />
-</p>
+### Contato
 
----
-
-### 🤝 Vamos conversar?
-<p align="left">
-<a href="https://www.linkedin.com/in/mgarajau" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+[![Portfólio](https://img.shields.io/badge/Portfólio-1e3ad4?style=for-the-badge&logoColor=white)](https://mgarajau.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff2a5f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-garajau/)
